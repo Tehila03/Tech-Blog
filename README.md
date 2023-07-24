@@ -37,6 +37,7 @@ Finally, to start the server, type `npm start` into your terminal and navigate t
 
 ## Demo
 
+<img width="1438" alt="Screen Shot 2023-07-24 at 6 18 22 PM" src="https://github.com/Tehila03/Tech-Blog/assets/125328462/cf60b5a9-b8df-4a9f-b2b6-adc22cea90cb">
 
 
 ## Questions
